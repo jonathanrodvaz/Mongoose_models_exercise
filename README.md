@@ -1,2 +1,1 @@
-# Mongoose_models_exercise
-Mongoose models.
+# Mongoose_exercise
