@@ -2,7 +2,7 @@
 const mongoose = require('mongoose')
 
 //Traemos el Schema de datos: Es la definición de datos
-const Schema = mongoose.schema 
+const Schema = mongoose.Schema 
 
     //Definimos el esqueleto del modelo character
     //1)Definimos lo primero el TYPE --> tipo de dato
